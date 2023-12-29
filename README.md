@@ -1,9 +1,9 @@
-### Hi, there! Eu sou o Deolindo Scandolera 👋
+### Hi, there! I'm Deolindo Scandolera 👋
 
 - 💻 Currently back-end programmer
-- 🧠 Learning Python e JavaScript
-- 🛒 Working on the Ecommerce Project 2022
-- 😄 Pronouns: ele/dele he/his
+- 🧠 Learning a little about ERP systems
+- 🎯 Working to get my first job
+- 😄 Pronouns: ele/dele he/him
 
 <div>
   <a href="https://github.com/Deoola">
