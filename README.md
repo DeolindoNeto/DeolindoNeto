@@ -1,6 +1,6 @@
 ### Hi, there! I'm Deolindo Scandolera 👋
 
-- 💻 Currently back-end programmer
+- 💻 Back-end developer
 - 🧠 Learning a little about ERP systems
 - 🎯 Working to get my first job
 - 😄 Pronouns: ele/dele he/him
