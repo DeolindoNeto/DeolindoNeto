@@ -6,8 +6,8 @@
 - 😄 Pronouns: ele/dele he/him
 
 <div>
-  <a href="https://github.com/Deoola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deoola&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/DeolindoNeto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeolindoNeto&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
